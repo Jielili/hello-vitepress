@@ -18,7 +18,8 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: '原型', link: '/prototype'}
+          { text: '原型', link: '/prototype' },
+          { text: 'hover', link: '/hover'}
         ]
       }
     ],
